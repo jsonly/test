@@ -4,3 +4,4 @@ var b = document.getElementsByTagName('b');
 a.onclick = function(){
 	console.log(1);
 };
+var abc = 123;
